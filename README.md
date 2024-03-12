@@ -11,7 +11,7 @@ A frontend and mobile dev with a huge love for anything blockchain🧱⛓️.
 * ✉️  You can contact me at [awosusigabriel2019@gmail.com](mailto:awosusigabriel2019@gmail.com)
 * 🧠  I'm learning Solidity
 * 🤝  I'm open to collaborating on projects that change things
-* ⚡  One thing you need know about me is that I love learning, really
+* ⚡  One thing you need to know about me is that I love learning, really
 
 ### Skills
 
