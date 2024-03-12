@@ -35,4 +35,5 @@ A frontend and mobile dev with a huge love for anything blockchain🧱⛓️.
 
 <a href="https://github.com/greatonical" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatonical&langs_count=10&title_color=64748b&text_color=000000&icon_color=64748b&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+![greatonic's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greatonical&langs_count=8&layout=compact)
+
