@@ -1,6 +1,6 @@
 # Hi 👋 I'm Greatonic
 
-## Quant & Algorithmic Systems • Frontend Engineer
+## Quant & Algorithmic Systems • Software Engineer
 
 **🎓 B.Sc. Computer Science with Economics**
 
